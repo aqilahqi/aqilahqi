@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Qi. I'm a frontend developer living in Malaysia.
+- 👋 Hi, I’m Qi. I'm a frontend developer living in Malaysia
+- 🐿️ Squirrel is my spirit animal
 - 👩‍🦳 What I've worked with : `Bash` , `CI/CD`, `React Native`, `Redux` , `PHP` , `Bootstrap` , `Wordpress`
 - 👀 What I use everyday : `Vue.js` , `Vuex` , `Axios` , `Sass` , `Javascript` , `Figma` , `Quasar Framework`, `Nuxt.js`
 - 🌱 What I’m currently learning : `UI/UX` , `React.js` , `Next.js` , `Express`, `Styled Components`
