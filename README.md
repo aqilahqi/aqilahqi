@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Qi. I'm a frontend developer living in Malaysia
 - 🤗 I love coding in Vue and my hobby is digital drawing
 - 🐿️ Squirrel is my spirit animal
-- 👀 What I use everyday : `Vue` , `Vuex` , `Axios` , `Javascript` , `Figma` , `Nuxt` , `SCSS/CSS` , `HTML`
+- 👀 What I use everyday : `Vue` , `Vuex` , `Axios` , `Javascript` , `Figma` , `Nuxt` , `SCSS/CSS` , `HTML`, `React.js`
 - 👩‍🦳 What I've worked with : `Bash` , `CI/CD`, `React Native`, `Redux` , `PHP` , `Bootstrap` , `Wordpress` , `Quasar Framework`
 - 🌱 What I’m currently learning : `UI/UX` , `Pinia` , `Typescript`
 - 🤩 What I want to use : `Pinia` , `GraphQL` , `Vitest`
