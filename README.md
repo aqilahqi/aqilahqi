@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Qi. I'm a frontend developer living in Malaysia
 - 🤗 I love coding in Vue and my hobby is digital drawing
 - 🐿️ Squirrel is my spirit animal
-- 👀 What I use everyday : `Vue` , `Vuex` , `Axios` , `Javascript` , `Figma` , `Nuxt` , `SCSS/CSS` , `HTML`, `React.js`
+- 👀 What I use everyday : `Vue` , `Pinia`🍍 , `Axios` , `Typescript` , `Javascript` , `Figma` , `Nuxt` , `SCSS/CSS` , `HTML`, `React.js`
 - 👩‍🦳 What I've worked with : `Bash` , `CI/CD`, `React Native`, `Redux` , `PHP` , `Bootstrap` , `Wordpress` , `Quasar Framework`
-- 🌱 What I’m currently learning : `UI/UX` , `Pinia` , `Typescript`
-- 🤩 What I want to use : `Pinia` , `GraphQL` , `Vitest`
+- 🌱 What I’m currently learning : `UI/UX` , `Wordpress` again 😅 
+- 🤩 What I want to use : `GraphQL` , `Vitest`
 
 <h5>📫 How to reach me</h5>
 <a href="https://www.linkedin.com/in/aqilah-fatin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:aqilahfatinfauzi@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
